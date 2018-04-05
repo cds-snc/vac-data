@@ -1,0 +1,11 @@
+*.swp
+**/*.egg-info
+**/__pycache__
+**/*.pyc
+**/.cache/
+**/.mypy_cache/
+.python-version
+.env
+.idea
+.vs
+.ipynb_checkpoints/
